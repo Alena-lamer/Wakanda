@@ -1,0 +1,126 @@
+html {
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 11px;
+}
+
+.fa-solid, .fas {
+    font-weight: 900;
+}
+
+.fa-classic, .fa-regular, .fa-solid, .far, .fas {
+	font-family: "Font Awesome 6 Free";
+}
+
+.btn {
+	background: #0077C0 !important;
+	border: 1px solid #0077C0 !important;
+}
+
+.btn:hover {
+	background: #fff !important;
+	border: 1px solid #0077C0 !important;
+	color: #0077C0 !important;
+}
+
+#btn-btm:hover {
+	background: #0077C0 !important;
+	border: 1px solid #fff !important;
+	color: #fff !important;
+}
+
+.navbar-toggler:hover {
+	background: #e6e6e6;
+}
+
+.p-jumbotron {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+#feature {
+	background: #0077C0 !important;
+}
+
+#p-feature {
+	letter-spacing: 2px;
+	font-size: 13px;
+}
+
+.card {
+	background: none !important;
+	border: none !important;
+}
+
+li {
+	font-size: 16px;
+}
+
+
+.badge {
+	background: #C7EEFF !important;
+}
+
+.kodzima {
+	background: #C7EEFF !important;
+}
+
+#p-kodzima {
+	color: #0077C0;
+	letter-spacing: 3px;
+	font-size: 13px;
+}
+
+
+#bottom-banner {
+	background: #0077C0;
+}
+
+
+.what {
+	letter-spacing: 5px;
+}
+
+.last {
+	background: #fff !important;
+	color: #0071D9 !important;
+}
+
+
+footer {
+	background: #1D242B;
+}
+
+.a-footer {
+	text-decoration: none !important;
+	font-size: 14px;
+}
+
+.navbar-footer {
+	margin-top: 0 !important;
+}
+
+input {
+	border: none !important;
+}
+
+input::placeholder {
+	color: rgba(255,255,255,.7) !important;
+}
+
+i {
+	color: white;
+}
+
+.input-group-text {
+	border: none !important;
+}
+
+@media (max-width: 720px) {
+	.b-img {
+		margin: 0 auto;
+	}
+}
+
+
